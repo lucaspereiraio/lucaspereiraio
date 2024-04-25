@@ -1,5 +1,7 @@
 ### Hello world! Eu sou o Lucas Pereira 👋
 
+[![Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=lucaspereiraio&show_icons=true&theme=dark&hide=stars)]
+
 <!-- <div>
   <img align="center" alt="Lucas-Header" src="https://github.com/lucaspereiraio/lucaspereiraio/assets/125293546/4fd43d67-95e6-49ae-8e04-830c44f7b573">
 </div> -->
