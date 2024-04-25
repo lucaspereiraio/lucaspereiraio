@@ -1,4 +1,7 @@
-### Hello world! Eu sou o Lucas Pereira 👋
+<!-- ### Hello world! Eu sou o Lucas Pereira 👋 -->
+<div>
+  <img align="center" alt="Lucas-Header" src="https://github.com/lucaspereiraio/lucaspereiraio/assets/125293546/e341563a-b964-40be-b1cf-1d0ac101cd83">
+</div>
 
 ##
 
