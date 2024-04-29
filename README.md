@@ -1,4 +1,8 @@
-### Hello world! Eu sou o Lucas Pereira 👋
+### Hello world! I'm Lucas Pereira 👋
+
+- 🖥 Front-End Developer
+- ⚙ Bachelor's in Automotive Engineering from the Universidade de Brasília (UnB)
+- 📖 Undergraduate in Systems Analysis and Development 
 
 <!---[![Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=lucaspereiraio&show_icons=true&theme=dark&hide=stars)] -->
 
