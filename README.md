@@ -3,7 +3,7 @@
 - 🖥 Front-End Developer.
 - ⚙ Bachelor's in Automotive Engineering from the Universidade de Brasília (UnB).
 - 📖 Undergraduate in Systems Analysis and Development.
-- 👨🏽‍💻 At the moment, I'm studying Angular and building my portfolio to showcase it online!
+- 👨🏽‍💻 Currently, I'm studying database fundamentals and working on personal projects to showcase in my portfolio!
 
 <!--[![Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=lucaspereiraio&show_icons=true&theme=dark)]
 
@@ -15,7 +15,7 @@
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Lucas-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Lucas-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg"">
+<!--   <img align="center" alt="Lucas-Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg""> -->
   <img align="center" alt="Lucas-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Lucas-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Lucas-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
