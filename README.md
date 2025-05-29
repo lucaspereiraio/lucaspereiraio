@@ -1,9 +1,9 @@
 ### Hello world! I'm Lucas Pereira 👋
 
 - 🖥 Front-End Developer.
+- 👨🏽‍💻 Web Developmet Associate Analyst at Monks!
 - ⚙ Bachelor's in Automotive Engineering from the Universidade de Brasília (UnB).
 - 📖 Undergraduate in Systems Analysis and Development.
-- 👨🏽‍💻 Currently, I'm studying database fundamentals and working on personal projects to showcase in my portfolio!
 
 <!--[![Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=lucaspereiraio&show_icons=true&theme=dark)]
 
